@@ -1,16 +1,18 @@
-# exam_mate
+<h3>Exam Mate assignment </h3>
 
-A new Flutter project.
+Random Quote Generator uses Riverpod for efficient state management and API calls to fetch data seamlessly. It ensures smooth error handling with a clean and user-friendly interface, providing a great experience. The design keeps things organized, making interactions simple and effective. 
 
-## Getting Started
+<ul>
+  <li>API calling</li>
+  <li>JSON serialization</li>
+  <li>FpDart funtional programming </li>
+  <li>Riverpod state management </li>
+</ul>
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="padding-top: 20px; padding-bottom: 8px; padding-left: 16px; padding-right: 16px;">
+    <img src="https://github.com/Vrushabh102/exam_mate_assignment/blob/master/screenshots/1.jpg" width="175" height="380">
+    <img src="https://github.com/Vrushabh102/exam_mate_assignment/blob/master/screenshots/2.jpg" width="175" height="380">
+    <img src="https://github.com/Vrushabh102/exam_mate_assignment/blob/master/screenshots/3.jpg" width="175" height="380">
+</div>
