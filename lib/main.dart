@@ -22,6 +22,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: ProviderScope(child: QuoteScreen()));
+    return MaterialApp(debugShowCheckedModeBanner: false, home: ProviderScope(child: QuoteScreen()),);
   }
 }
